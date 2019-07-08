@@ -1,0 +1,13 @@
+name: area
+description: Compute an area of a GeoJSON polygon or multipolygon
+version: 0.0.1
+author: Porn <ikarus.cz@gmail.com>
+homepage: https://github.com/porn/area
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: any
