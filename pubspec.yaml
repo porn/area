@@ -1,7 +1,7 @@
 name: area
-description: Compute an area of a GeoJSON polygon or multipolygon
-version: 0.0.1
-author: Porn <ikarus.cz@gmail.com>
+description: Compute an area (in square meters) of a GeoJSON polygon or multipolygon
+version: 1.0.0
+author: Ikar Pohorský <ikarus.cz@gmail.com>
 homepage: https://github.com/porn/area
 
 environment:

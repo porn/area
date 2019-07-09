@@ -93,4 +93,3 @@ num area(geometry) {
 
   return _area;
 }
-
