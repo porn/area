@@ -1,13 +1,15 @@
 name: area
 description: Compute an area (in square meters) of a GeoJSON polygon or multipolygon
-version: 1.0.0
+version: 1.1.0
 author: Ikar Pohorský <ikarus.cz@gmail.com>
 homepage: https://github.com/porn/area
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
+  flutter:
+      sdk: flutter
 
 dev_dependencies:
   test: any
