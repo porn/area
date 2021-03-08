@@ -1,3 +1,7 @@
+## [1.1.0] - 2021-03-08
+* Version 1.1.0 released.
+* Migrating to null-safety for dart 2.12
+
 ## [1.0.0] - 2019-07-09
 * Version 1.0.0 released.
 
